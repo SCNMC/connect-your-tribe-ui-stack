@@ -2,7 +2,10 @@
 
 # 💵 UI stack 
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-
+Voor deze opdracht heb ik 3 UI states geschetst en gemaakt:
+- Loading state 
+- Empty state 
+- Error state 
 ## Schetsen wireflow en breakdown
 ### Empty state:
 ![22A7ACD8-078C-464D-B371-EC0E8FEAB6B1_1_105_c](https://user-images.githubusercontent.com/90189750/163682449-ebcc1a08-bed8-418c-8f2f-9dbfc15ec2c1.jpeg)
